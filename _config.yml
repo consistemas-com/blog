@@ -55,7 +55,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
+author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
@@ -73,7 +73,7 @@ plugins:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-#footer:
+footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
