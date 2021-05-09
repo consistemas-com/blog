@@ -59,7 +59,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: articulos
     values:
       layout: single
       author_profile: false
