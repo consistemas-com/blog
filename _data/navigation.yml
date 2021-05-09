@@ -1,7 +1,7 @@
 main:
-  - title: "Artículos"
+  - title: "Articulos"
     url: /articulos/
-  - title: "Categorías"
+  - title: "Categorias"
     url: /categorias/
   - title: "Tags"
     url: /tags/
